@@ -10,7 +10,7 @@ Pre-trained face detection models trained on WiderFace dataset.
 |:------|:----:|:--------:|:---------:|:---------|
 | **YOLOv9e Baseline** | 112 MB | **51.9%** | 4.7ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/refs/heads/main/models/yolov9e_baseline.pt?download=) |
 | **YOLO11x Baseline** | 110 MB | 51.8% | 3.5ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/refs/heads/main/models/yolo11x_baseline.pt?download=) |
-| **YOLO11n Baseline** | 5.3 MB | 47.1% | 1.1ms | [Download]([https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11n_baseline.pt?raw=true](https://github.com/BossDever/widerface-face-detection/raw/refs/heads/main/models/yolo11n_baseline.pt?download=)) |
+| **YOLO11n Baseline** | 5.3 MB | 47.1% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/refs/heads/main/models/yolo11n_baseline.pt?download=) |
 | **YOLOv9t Baseline** | 4.5 MB | 46.8% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/refs/heads/main/models/yolov9t_baseline.pt?download=) |
 
 ---
