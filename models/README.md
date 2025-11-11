@@ -8,10 +8,10 @@ Pre-trained face detection models trained on WiderFace dataset.
 
 | Model | Size | mAP50-95 | Inference | Download |
 |:------|:----:|:--------:|:---------:|:---------|
-| **YOLOv9e Baseline** | 112 MB | **51.9%** | 4.7ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9e_baseline.pt) |
-| **YOLO11x Baseline** | 110 MB | 51.8% | 3.5ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11x_baseline.pt) |
-| **YOLO11n Baseline** | 5.3 MB | 47.1% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11n_baseline.pt) |
-| **YOLOv9t Baseline** | 4.5 MB | 46.8% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9t_baseline.pt) |
+| **YOLOv9e Baseline** | 112 MB | **51.9%** | 4.7ms | [Download](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9e_baseline.pt?raw=true) |
+| **YOLO11x Baseline** | 110 MB | 51.8% | 3.5ms | [Download](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11x_baseline.pt?raw=true) |
+| **YOLO11n Baseline** | 5.3 MB | 47.1% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11n_baseline.pt?raw=true) |
+| **YOLOv9t Baseline** | 4.5 MB | 46.8% | 1.1ms | [Download](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9t_baseline.pt?raw=true) |
 
 ---
 
@@ -31,16 +31,16 @@ Download models directly from the repository:
 
 ```bash
 # Using wget
-wget https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9e_baseline.pt
-wget https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11x_baseline.pt
-wget https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11n_baseline.pt
-wget https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9t_baseline.pt
+wget https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9e_baseline.pt?raw=true -O yolov9e_baseline.pt
+wget https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11x_baseline.pt?raw=true -O yolo11x_baseline.pt
+wget https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11n_baseline.pt?raw=true -O yolo11n_baseline.pt
+wget https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9t_baseline.pt?raw=true -O yolov9t_baseline.pt
 
 # Or using curl
-curl -L -o yolov9e_baseline.pt https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9e_baseline.pt
-curl -L -o yolo11x_baseline.pt https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11x_baseline.pt
-curl -L -o yolo11n_baseline.pt https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11n_baseline.pt
-curl -L -o yolov9t_baseline.pt https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9t_baseline.pt
+curl -L -o yolov9e_baseline.pt "https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9e_baseline.pt?raw=true"
+curl -L -o yolo11x_baseline.pt "https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11x_baseline.pt?raw=true"
+curl -L -o yolo11n_baseline.pt "https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11n_baseline.pt?raw=true"
+curl -L -o yolov9t_baseline.pt "https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9t_baseline.pt?raw=true"
 ```
 
 ### Option 3: From Source Training Directory

@@ -172,10 +172,10 @@ bash scripts/download_models.sh
 **Option 2: Manual Download**
 
 Download from the repository and place in `models/` directory:
-- [yolov9e_baseline.pt](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9e_baseline.pt) (112 MB)
-- [yolo11x_baseline.pt](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11x_baseline.pt) (110 MB)
-- [yolo11n_baseline.pt](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolo11n_baseline.pt) (5.3 MB)
-- [yolov9t_baseline.pt](https://github.com/BossDever/widerface-face-detection/raw/main/models/yolov9t_baseline.pt) (4.5 MB)
+- [yolov9e_baseline.pt](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9e_baseline.pt?raw=true) (112 MB)
+- [yolo11x_baseline.pt](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11x_baseline.pt?raw=true) (110 MB)
+- [yolo11n_baseline.pt](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolo11n_baseline.pt?raw=true) (5.3 MB)
+- [yolov9t_baseline.pt](https://github.com/BossDever/widerface-face-detection/blob/main/models/yolov9t_baseline.pt?raw=true) (4.5 MB)
 
 ---
 
