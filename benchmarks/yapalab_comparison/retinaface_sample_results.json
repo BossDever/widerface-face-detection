@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-11T08:35:40.290407",
+  "results": {
+    "model": "RetinaFace (InsightFace)",
+    "images_tested": 500,
+    "total_detections": 3530,
+    "total_ground_truth": 6762,
+    "true_positives": 3381,
+    "precision": 0.9577903682719546,
+    "recall": 0.5,
+    "f1_score": 0.6570151574038088,
+    "avg_inference_time_ms": 232.4728593826294,
+    "note": "Sample-based evaluation (not full validation set)"
+  }
+}

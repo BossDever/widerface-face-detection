@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Model weights (large files - track separately or use Git LFS)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+
+# Datasets (too large for git)
+datasets/
+data/
+WIDER_*/
+
+# Training outputs
+runs/
+wandb/
+logs/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output directories
+output/
+results_*/
+temp/
+
+# Benchmark results (optionally include selected ones)
+# benchmarks/logs/*.log
+
+# Environment
+.env
+.env.local

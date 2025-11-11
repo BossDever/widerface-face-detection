@@ -1,0 +1,5 @@
+Model,Default Conf,Default Precision,Default Recall,Default F1,Best F1 Conf,Best F1 Score,Max Recall Conf,Max Recall
+yolov9e_baseline,0.25,87.42%,69.62%,0.7751,0.10,0.7752,0.25,69.62%
+yolo11x_baseline,0.25,87.12%,69.64%,0.7740,0.10,0.7742,0.25,69.64%
+yolo11n_baseline,0.25,85.26%,60.30%,0.7064,0.25,0.7064,0.25,60.30%
+yolov9t_baseline,0.25,85.47%,58.96%,0.6978,0.25,0.6978,0.20,59.23%

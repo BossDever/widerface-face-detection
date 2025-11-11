@@ -1,0 +1,16 @@
+# WiderFace Dataset Configuration for YOLO
+
+# Paths to dataset (update these to your local paths)
+train: /workspace/yolo-training/downloads/WIDER_train
+val: /workspace/yolo-training/downloads/WIDER_val
+test: /workspace/yolo-training/downloads/WIDER_test
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: face
+
+# Optional: Download URLs (if using auto-download)
+# download: http://shuoyang1213.me/WIDERFACE/
